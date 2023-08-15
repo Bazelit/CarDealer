@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,600;6..12,700;6..12,800&display=swap");
+
+body {
+  font-family: Nunito Sans, serif;
+  font-weight: 600;
+  background: #212529;
+}
+
+p {
+  color: #9c9c9c;
+}
+
+.nav-link {
+  color: #9c9c9c;
+}
+
+.nav-link:hover {
+  color: #b15454;
+}
+
+.navbar-nav {
+  margin-right: 97em;
+}
+
+.navbar-nav .nav-link.active {
+  color: #ff6e6e;
+}
+
+.navbar-brand img {
+  width: 70px;
+}
+
+.navbar-toggler {
+  background-color: #ea6969;
+}
+
+.sidebar {
+  color: #9c9c9c;
+}
+
+.card-body {
+  background-color: rgb(31 41 55);
+}
+
+.card-title {
+  color: #ff6e6e;
+}
+
+.card-text {
+  color: #b9b8b8;
+}
+
+.string {
+  padding-top: 25px;
+}
+
+footer {
+  background: #141414;
+}
+
+.footer-text {
+  color: #b9b8b8;
+  font-weight: 700;
+}
+
+.media-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.p-help {
+  color: #ea6969;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.call-anim {
+  animation: call 2s ease 0s infinite normal forwards;
+}
+
+@keyframes call {
+  0%,
+  100% {
+    transform: translateX(0%);
+    transform-origin: 50% 50%;
+  }
+
+  15% {
+    transform: translateX(-30px) rotate(-6deg);
+  }
+
+  30% {
+    transform: translateX(15px) rotate(6deg);
+  }
+
+  45% {
+    transform: translateX(-15px) rotate(-3.6deg);
+  }
+
+  60% {
+    transform: translateX(9px) rotate(2.4deg);
+  }
+
+  75% {
+    transform: translateX(-6px) rotate(-1.2deg);
+  }
+}
+
+.btn-primary {
+  background-color: #ca3838;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: rgb(134, 9, 9);
+}
+
+.rights {
+  padding-top: 1.7em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.footer-text-other {
+  padding-top: 15px;
+}
+
+.footer-text-other a {
+  color: #9c9c9c;
+}
+
+.social-media {
+  padding-top: 1.5em;
+}
+
+.footer-text-other a:hover {
+  color: #ffffff;
+}
+
+.theme-gif {
+  border-radius: 50px;
+}
