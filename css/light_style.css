@@ -39,15 +39,15 @@ p {
 }
 
 .card-body {
-  background-color: rgb(31 41 55);
+  background-color: #F3F3F3;
 }
 
 .card-title {
-  color: #ff6e6e;
+  color: #D93838;
 }
 
 .card-text {
-  color: #b9b8b8;
+  color: #212121;
 }
 
 .string {
