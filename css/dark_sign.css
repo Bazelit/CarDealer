@@ -1,0 +1,46 @@
+.card-body {
+  border-radius: 20px;
+  background-color: rgb(48, 51, 53);
+}
+
+.forgot-password {
+  color: rgb(15, 165, 224);
+  cursor: pointer;
+  padding-left: 44%;
+}
+
+.form-label {
+  color: rgb(212, 212, 212);
+}
+
+#sign-up u {
+  color: blue;
+}
+
+section p {
+  color: #ff6e6e;
+}
+
+.sign-img {
+  width: 100%;
+}
+
+.text-body u {
+  color: rgb(212, 212, 212);
+}
+
+.form-check-label {
+  color: #6c757d;
+}
+
+.form-check-label a {
+  color: rgb(15, 165, 224);
+}
+
+#login-button {
+  background: none;
+}
+
+.button-singup {
+  padding: 0 10px 0 10px;
+}

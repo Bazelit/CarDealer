@@ -19,7 +19,7 @@ p {
 }
 
 .navbar-nav {
-  margin-right: 97em;
+  margin-right: 85em;
 }
 
 .navbar-nav .nav-link.active {
@@ -142,4 +142,12 @@ a {
 
 .theme-gif {
   border-radius: 50px;
+}
+
+#login-button {
+  background: none;
+}
+
+.button-singup {
+  padding: 0 10px 0 10px;
 }

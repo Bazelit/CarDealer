@@ -19,7 +19,7 @@ p {
 }
 
 .navbar-nav {
-  margin-right: 97em;
+  margin-right: 85em;
 }
 
 .navbar-nav .nav-link.active {
@@ -39,15 +39,15 @@ p {
 }
 
 .card-body {
-  background-color: rgb(31 41 55);
+  background-color: #f3f3f3;
 }
 
 .card-title {
-  color: #ff6e6e;
+  color: #d93838;
 }
 
 .card-text {
-  color: #b9b8b8;
+  color: #212121;
 }
 
 .string {
@@ -143,4 +143,22 @@ a {
 
 .theme-gif {
   border-radius: 50px;
+}
+
+.forgot-password {
+  cursor: pointer;
+  padding-left: 44%;
+}
+
+.sign-img {
+  width: 100%;
+}
+
+#light-login-button {
+  color: #dc3545;
+  background: none;
+}
+
+.button-singup {
+  padding: 0 10px 0 10px;
 }
